@@ -9,7 +9,7 @@
   <description>The description of queryMq</description>
 
   <properties>
-    <spring.RELEASE>3.0.5.RELEASE</spring.RELEASE>
+    <spring.RELEASE>6.0.0</spring.RELEASE>
   </properties>
 
   <dependencies>
